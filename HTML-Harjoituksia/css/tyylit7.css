@@ -1,6 +1,6 @@
 ﻿table {
     border: 1px solid black;
-    width: 550px;
+    width: 500px;
     border-collapse: collapse;
 }
 td {
@@ -8,4 +8,5 @@ td {
 }
 th {
     text-align: left;
+    border-inline: 1px solid black; 
 }
