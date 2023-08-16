@@ -1,3 +1,69 @@
-﻿h1 {
+﻿@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Amatic+SC&family=Anonymous+Pro&family=Gloria+Hallelujah&family=Righteous&display=swap');
+
+h1 {
     color: green;
+}
+
+.eka {
+    color: red;
+}
+.toka {
+    color: green;
+    font-size: 20px;
+}
+.kolmas {
+    color: green;
+    font-size: 18px;
+}
+.neljas {
+    color: green;
+    font-size:30px;
+}
+
+.viides {
+    color: orange;
+    font-size: 30px;
+}
+
+.kuudes {
+    color: orange;
+    font-size: 20px;
+}
+
+.seiten {
+    color: aqua;
+    font-size: 18px;
+}
+.kasi {
+    color: pink;
+    font-size: 16px;
+}
+
+.ysi {
+    color: grey;
+    font-size: 10px;
+}
+
+.mika {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.whatis {
+    font-family: 'Righteous', cursive;
+}
+
+.whydo {
+    font-family: 'Anonymous Pro', monospace;
+}
+
+.wheredoes {
+    font-family: 'Alex Brush', cursive;
+}
+
+.wheredoes2 {
+    font-family: 'Amatic SC', cursive;
+}
+
+.wheresome {
+    font-family: 'Anonymous Pro', monospace;
 }
