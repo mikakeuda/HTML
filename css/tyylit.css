@@ -1,0 +1,16 @@
+﻿aside {
+    
+
+    width: 200px;
+    float: right;
+    background: red;
+}
+header {
+    background: brown;
+    display:inline-block;
+}
+
+article {
+    width: 600px;
+    background: green;
+}
