@@ -1,16 +1,41 @@
 ﻿aside {
     
-
     width: 200px;
     float: right;
-    background: red;
+    background: yellow;
 }
 header {
-    background: brown;
-    display:inline-block;
+    
+    background: green;
 }
 
 article {
-    width: 600px;
+    width: 800px;
     background: green;
+    display: grid;
+}
+body {
+    background: darkgreen;
+}
+hr {
+    color: white;
+    width: 800px;
+    padding: 0px;
+    margin: 0px;
+}
+h2 {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+h1 {
+    
+    color: white;
+}
+nav {
+
+}
+nav li {
+    
+    display: inline-block;
 }
